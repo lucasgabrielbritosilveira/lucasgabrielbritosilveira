@@ -22,7 +22,7 @@
   <div align="center">
   <div> 
     <a href = "mailto:lucasilveira865@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/[andressagm](https://www.linkedin.com/in/lucas-gabriel-brito-silveira-9242691b8/)/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href="https://www.linkedin.com/in/lucas-gabriel-brito-silveira-9242691b8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href="https://www.youtube.com/@lucasgabrielbritosilveira" target="_blank"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a> 
   </div>
 </div>
