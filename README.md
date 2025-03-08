@@ -19,7 +19,7 @@
   📌 Linux;
   📌 Docker;
 
-  ##Versionamento de código
+  ## Versionamento de código
   📌 Git.
   📌 Gitlab;
   
