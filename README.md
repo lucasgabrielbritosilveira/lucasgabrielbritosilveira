@@ -1,20 +1,38 @@
 <div align="center">
   <a href="https://github.com/lucasgabrielbritosilveira"></a>
   
-  Oi, eu sou o Lucas. Graduando em: Ciência da Computação estudando: Linux 🐧 e C++ e Go.
+  Oi, eu sou o Lucas. Graduando em: Ciência da Computação.
 
+  ## Backend
   📌 C++ Moderno;
+  📌 Go.
+  📌 Java.
+  📌 PHP;
+  📌 Python;
+  
+  ## Frotend
   📌 Qt;
+  📌 React;
+  📌 HTML/CSS;
+  
+  ## Infraestrutura
   📌 Linux;
+  📌 Docker;
+
+  ##Versionamento de código
   📌 Git.
-  📌 Go
+  📌 Gitlab;
+  
 
     
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgabrielbritosilveira&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
   ## Assuntos de interesse:
-  Compiladores, Emuladores; Servidores Linux, ARM64; Virtualização; Compiladores.
+  - Programação concorrente;
+  - Linux;
+  - Virtualização;
+  - Compiladores
   
 
 
